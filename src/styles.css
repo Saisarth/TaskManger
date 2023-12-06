@@ -56,5 +56,8 @@ body {
     color: #fff;
   }
   
-  /* Add your own custom styles as needed */
+  button{
+      background-color:blue;
+      margin:10px;
+  }
   
