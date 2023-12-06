@@ -1,0 +1,60 @@
+body {
+    background: radial-gradient(circle, #000, #ffd700);
+    color: #fff;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #e2e8f0;
+    padding: 8px;
+    text-align: left;
+    color: #fff;
+  }
+  
+  .table th {
+    background-color: #3498db;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .bg-primary {
+    background-color: #3498db;
+  }
+  
+  .bg-success {
+    background-color: #2ecc71;
+  }
+  
+  .bg-danger {
+    background-color: #e74c3c;
+  }
+  
+  .bg-info {
+    background-color: #3490dc;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  /* Add your own custom styles as needed */
+  
