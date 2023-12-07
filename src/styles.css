@@ -1,6 +1,6 @@
 /* Base Styles */
 body {
-  background: radial-gradient(circle, #000, #ffd700);
+  background: radial-gradient(circle, red,black);
   color: #fff;
   margin: 0;
   font-family: Arial, sans-serif;
