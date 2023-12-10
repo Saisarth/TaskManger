@@ -1,6 +1,6 @@
 /* Base Styles */
 body {
-  background: radial-gradient(circle, red,black);
+  background: linear-gradient(left-top, pink,blue);
   color: #fff;
   margin: 0;
   font-family: Arial, sans-serif;
