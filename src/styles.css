@@ -1,6 +1,6 @@
 /* Base Styles */
 body {
-  background: linear-gradient( pink,blue);
+  background: linear-gradient(45deg, pink,blue);
   color: #fff;
   margin: 0;
   font-family: Arial, sans-serif;
